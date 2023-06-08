@@ -1,3 +1,2 @@
-# CSS--Mondrian
-Mondrian Painting
+# Mondrian Painting
 A CSS practice for grid and flexbox.
